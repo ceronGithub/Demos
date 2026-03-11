@@ -12,6 +12,7 @@ PDF Extractor v1 Website | https://matth-el-pdf-extractor-v1.netlify.app/
 <br>
 Multiplication web app game | https://matthh-el-multiplication-game.netlify.app/
 <br>
+Mail collector | https://matth-el-mail-vault.netlify.app/
 
 # Demo Project/s (Desktop App)
 Employee evaluator C# WINFORM | https://github.com/ceronGithub/Employee-Eval-Demo
