@@ -1,4 +1,3 @@
-# Portfolio | https://ceron-matthew-portfolio.netlify.app/
 # Demo Project/s (Web-App)
 UI/UX Responsive web app | https://ceron-website-demo-1.netlify.app/
 <br>
